@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.5.0)
+  - CarbonKit (2.1.9)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - CarbonKit
+  - SDWebImage (~> 4.0)
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  CarbonKit: af16a9c0d2b6c908a5985fe4633424d38c9bfc0a
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+
+PODFILE CHECKSUM: 0f6baf13e4fa30e8c27edcfbc6f64ad5a83a80e5
+
+COCOAPODS: 1.1.1
